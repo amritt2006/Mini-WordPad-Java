@@ -38,4 +38,4 @@ This project demonstrates GUI development, file handling, and text formatting in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Mini-WordPad-Java.git
+git clone https://github.com/amritt2006/Mini-WordPad-Java.git
