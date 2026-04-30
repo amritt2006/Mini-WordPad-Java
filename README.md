@@ -54,9 +54,10 @@ java MiniWordPad
 ## 📂 Project Structure
 
 MiniWordPad.java
+<br>
 README.md
-screenshot1.png
-screenshot2.png
+<br>
+screenshot.png
 
 ---
 
